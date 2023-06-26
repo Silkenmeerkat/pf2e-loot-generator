@@ -13,6 +13,11 @@
     c. Choose the number of items, add their values together and spit out currency amount. 
 6. Build an interface that outputs the values. 
 
+## Architectural Notes
+
+1. DBs: 
+
+
 
 ## Nice to haves after core is done. 
 1. reroll individual items maintain total party spend. 
